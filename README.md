@@ -1,2 +1,2 @@
-# -2024-tri3-trab01-2024316249
-#trabalho do banner da FICE
+# Banner responsivo da FICE
+Trabalho 1 e 2 do terceiro trimestre.
